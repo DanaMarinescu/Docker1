@@ -6,3 +6,5 @@ email-validator
 flask_bcrypt
 flask_login
 psycopg2
+gunicorn
+
